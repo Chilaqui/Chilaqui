@@ -18,14 +18,11 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 <br>
 
-![GitHub](https://img.shields.io/badge/GitHub-Perfil-brightgreen?style=flat&logo=github&logoColor=white)(Enlace a tu perfil de GitHub)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin&logoColor=white)](Enlace a tu perfil de LinkedIn)
-    [![Instagram](https://img.shields.io/badge/Instagram-Perfil-orange?style=flat&logo=instagram&logoColor=white)](Enlace a tu perfil de Instagram)
 
 <p align="center">
     <a href="Enlace a tu perfil de GitHub"><img src="https://img.shields.io/badge/GitHub-Perfil-brightgreen?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="Enlace a tu perfil de LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="Enlace a tu perfil de Instagram"><img src="https://img.shields.io/badge/Instagram-Perfil-orange?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/hector-luis-rodriguez-gonzaga-23238b276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/hectorluigi18?igsh=eXhmZHh4ZTB2aGp1"><img src="https://img.shields.io/badge/Instagram-Perfil-orange?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 
