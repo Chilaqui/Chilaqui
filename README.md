@@ -18,7 +18,7 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-brightgreen?style=flat&logo=github&logoColor=white)](Enlace a tu perfil de GitHub)
+<p style="text-align:center;>![GitHub](https://img.shields.io/badge/GitHub-Perfil-brightgreen?style=flat&logo=github&logoColor=white)(Enlace a tu perfil de GitHub)</p>
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin&logoColor=white)](Enlace a tu perfil de LinkedIn)
     [![Instagram](https://img.shields.io/badge/Instagram-Perfil-orange?style=flat&logo=instagram&logoColor=white)](Enlace a tu perfil de Instagram)
 
