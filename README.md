@@ -22,6 +22,12 @@
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin&logoColor=white)](Enlace a tu perfil de LinkedIn)
     [![Instagram](https://img.shields.io/badge/Instagram-Perfil-orange?style=flat&logo=instagram&logoColor=white)](Enlace a tu perfil de Instagram)
 
+<p align="center">
+    <a href="Enlace a tu perfil de GitHub"><img src="https://img.shields.io/badge/GitHub-Perfil-brightgreen?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="Enlace a tu perfil de LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="Enlace a tu perfil de Instagram"><img src="https://img.shields.io/badge/Instagram-Perfil-orange?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
 
 <!--
 <div align="center"  class="icons-social" style="margin-left: 10px;">
