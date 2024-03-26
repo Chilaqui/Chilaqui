@@ -3,7 +3,7 @@
 # ¡Hola! Soy Héctor Luis
 
 ## Sobre mí
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador junior con experiencia en diversas tecnologías de desarrollo de software. Me encanta resolver problemas y aprender nuevas habilidades tecnológicas.
+<p animation-duration: 3s; animation-name: slidein;>¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador junior con experiencia en diversas tecnologías de desarrollo de software. Me encanta resolver problemas y aprender nuevas habilidades tecnológicas.</p>
 
 ## Experiencia
 
