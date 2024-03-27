@@ -1,5 +1,5 @@
 <div>
-### Hello world 👋&color=FFFF00
+<h2>Hello world 👋&color=FFFF00</h2>
 </div>
 
 <h1 align = "center">
