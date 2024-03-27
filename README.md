@@ -1,10 +1,4 @@
-<div>
-   <h2 style="color: yellow;">Hello world 👋</h2>
-</div>
-
-<span style="color: yellow;">Hello world 👋</span>
-
-<font color="yellow">Hello world 👋</font>
+###Hello world 👋
 
 <h1 align = "center">
 <a href="https://github.com/Chilaqui"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FFFF00&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Héctor+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
