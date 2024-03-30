@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 align="center">Sobre mí</h2>
-<p aling="center">¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador junior con experiencia en diversas tecnologías de desarrollo de software. Me encanta resolver problemas y aprender nuevas habilidades tecnológicas.</p>
+<p align="center">¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador junior con experiencia en diversas tecnologías de desarrollo de software. Me encanta resolver problemas y aprender nuevas habilidades tecnológicas.</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
