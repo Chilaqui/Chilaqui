@@ -12,10 +12,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Sobre Mi</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>About me</b>
 <br>
 
-<p align="center">¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador junior con experiencia en diversas tecnologías de desarrollo de software. Me encanta resolver problemas y aprender nuevas habilidades tecnológicas.</p>
+<p align="center">Welcome to my GitHub profile!  I am a passionate Mexican junior programmer with experience in various software development technologies.  I love solving problems and learning new technological skills.</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
