@@ -29,7 +29,7 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-<br>
+</br>
 
 <p align="center">
     <a href="https://github.com/Chilaqui"style="display:inline-block; margin: 0 10px;"><img src="https://img.shields.io/badge/GitHub-Perfil-brightgreen?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
